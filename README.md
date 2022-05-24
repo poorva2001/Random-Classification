@@ -18,8 +18,8 @@ To write a python program to perform random classification.
 ```
 /*
 Program to implement random classification.
-Developed by   :
-RegisterNumber :  
+Developed by   :POORAVAJA A
+RegisterNumber :  212219040106
 */
 ```
 
